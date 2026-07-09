@@ -35,8 +35,6 @@ Para evaluar la arquitectura distribuida, presiona "Inyectar Tráfico" en el pan
 
 Julio Angello Vasquez Navarro
 
-Código: U22229509
-
 Universidad Tecnológica del Perú (UTP)
 
 Curso: Sistemas Distribuidos
